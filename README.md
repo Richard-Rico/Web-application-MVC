@@ -22,6 +22,6 @@ In this ASP.NET application project was used JS and it is compatible with bootst
 🔥 Passionate about Software Development 🔥 Interested in Frontend, Backend, Full-Stack ⚡#javascript #nodejs #html #css #phyton #C# #sql⚡
 
 
-## How to see this project?
+## How to see this project? 🔎
 
 This project needs to be opened with [@Microsoft Visual Studio.](https://visualstudio.microsoft.com/)
