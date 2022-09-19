@@ -3,7 +3,7 @@
 ## Description ⛰
 
 This repository contains an MVC (Model-View-Controller) web application with a user interface, which connects to the database through a username and password.
-In this ASP.NET application project was used C#, JS for somes pop-up windows and it is compatible with bootstrap 3.
+In this ASP.NET application project was used JS and it is compatible with bootstrap 3.
 
 
 ![MVC](https://user-images.githubusercontent.com/104793974/190974647-f3567411-a79f-4203-8acf-6a0229680140.JPG)
